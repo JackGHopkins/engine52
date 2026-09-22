@@ -1,0 +1,29 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.diversion/
+.idea/
+.vscode/
+
+# Bulk Lyra stock content — kept in Diversion, not mirrored here.
+/Content/Characters/
+/Content/Weapons/
+/Content/Effects/
+/Content/Audio/
+/Content/UI/
+
+# Shooter-specific Game Feature plugins — disabled/deleted in the strip-down
+# pass; excluded wholesale rather than just their Content/.
+/Plugins/GameFeatures/ShooterCore/
+/Plugins/GameFeatures/ShooterMaps/
+/Plugins/GameFeatures/TopDownArena/
+/Plugins/GameFeatures/ShooterExplorer/
+/Plugins/GameFeatures/ShooterTests/
+/Plugins/LyraExampleContent/
+/Plugins/PocketWorlds/
+/Build/
+/Config/Custom/EOS/
+/Config/Custom/Steam/
+/Config/Custom/SteamEOS/
